@@ -6,4 +6,4 @@ META-INF目录下的spring.factories文件内；<br>
   org.springframework.cloud.netflix.eureka.server.EurekaServerAutoConfiguration
 <br>
 <br>
-![avatar](https://github.com/chenluxing/sourceCode/images/eurekaServer.jpg)
+![avatar](https://github.com/chenluxing/sourceCode/blob/master/images/eurekaServer.png?raw=true)
